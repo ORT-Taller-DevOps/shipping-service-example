@@ -1,4 +1,4 @@
-package uy.edu.ort.devops.paymentsserviceexample.endpoints;
+package uy.edu.ort.devops.shippingserviceexample.endpoints;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
